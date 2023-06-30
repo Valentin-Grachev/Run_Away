@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ed5586c6c490df74ead1320672b1b628, type: 3}
+    - {fileID: 102900000, guid: b6d70c69a0b3a1841a45448304662740, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd48edd0a547591429fbbcb1e5eddce6, type: 3}
+  - {fileID: 21300000, guid: c3ca2f52f0fe8da4499712b09141a7cd, type: 3}
+  - {fileID: 21300000, guid: 2ae5dc135d3332f42abec13d0ccf0958, type: 3}
+  - {fileID: 21300000, guid: d8dca543fa474e541ae6177ef9ab3b93, type: 3}
+  - {fileID: 21300000, guid: 2f0ea77341402e144aa206f38e1db8f6, type: 3}
+  - {fileID: 21300000, guid: 82bb9973641592a42a819df7df34f81a, type: 3}
+  - {fileID: 21300000, guid: 62c2bcb344622a84a87d54c2740084bd, type: 3}
+  - {fileID: 21300000, guid: 8e14303547ed65b4c878983931f1deef, type: 3}
+  - {fileID: 21300000, guid: a46253459ceb31244bf93ddac461e628, type: 3}
+  - {fileID: 21300000, guid: f1aaa597590975c48b9aff5866e0aaba, type: 3}
+  - {fileID: 21300000, guid: b3173c78f8dca7642a0754f5926dd953, type: 3}
+  - {fileID: 21300000, guid: 4feb48aa6e3e1c048adddd75bb792b68, type: 3}
+  - {fileID: 21300000, guid: 83f51dea5667837448d50da132369b1c, type: 3}
+  - {fileID: 21300000, guid: 2a1a856bc2a36e2499ec818ec9a7e73d, type: 3}
+  - {fileID: 21300000, guid: 8601810ce29e5c44db69dbf4e5b9c2fa, type: 3}
+  - {fileID: 21300000, guid: 5c5194eceba42724fa2359a405db2198, type: 3}
+  - {fileID: 21300000, guid: 6e50962d559faa34aa38c1f718a00d14, type: 3}
+  - {fileID: 21300000, guid: 13db36cf6c5df6f42bda57bcc3823416, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 3
+  - hagy_run2
+  - 2
+  - amogus_idle
+  - exit
+  - skip
+  - hagy_run1
+  - promo
+  - hagy
+  - amogus_run1
+  - tutorial
+  - popup
+  - 1
+  - popup-button
+  - amogus_run2
+  - next
+  - skip-button
+  - replay
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0
